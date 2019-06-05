@@ -1,4 +1,6 @@
 # Bible API
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fhiperative%2Fonlinebible-api.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fhiperative%2Fonlinebible-api?ref=badge_shield)
+
 
 hash: 17ab676fe7ecfe0919a38bc574e304f9
 client: ff913c55498d2380-01
@@ -30,3 +32,7 @@ https://hackernoon.com/how-to-write-nice-typed-and-expressive-node-express-funct
 https://medium.com/@igorandreev/how-to-start-with-backend-typescript-and-use-its-full-potential-5114e52012b
 https://medium.com/becoming-a-computer-engineer/undergraduates-create-a-complete-rest-api-with-nodejs-express-and-swagger-7d3fb0734a5a
 https://www.toptal.com/nodejs/gatsby-js-node-js-static-site-generator-pt-1
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fhiperative%2Fonlinebible-api.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fhiperative%2Fonlinebible-api?ref=badge_large)
